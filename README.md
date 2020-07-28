@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmangipudiprashanth7" alt="Hits">
 -->
 ![Mangipudi Prashanth's github stats](https://github-readme-stats.vercel.app/api?username=mangipudiprashanth7&count_private=true&show_icons=true&theme=dark)
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmangipudiprashanth7" alt="Hits">
+
