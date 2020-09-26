@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmangipudiprashanth7" alt="Hits">
+src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
 -->
 
 <div align="center">
@@ -21,7 +22,7 @@ Here are some ideas to get you started:
 
 <br>
 
- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
+ <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width='300'>
 </div>
 
 <p align = "center">
