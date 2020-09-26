@@ -14,15 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fmangipudiprashanth7" alt="Hits">
+ <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width='300'>
+ 
+ 
+ <img src="https://raw.githubusercontent.com/mangipudiprashanth7/mangipudiprashanth7/master/tenor.gif" width='300'>
 src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
 -->
 
-<div align="center">
- 
-
-<br>
-
- <img src="https://media.giphy.com/media/11vhCpFcD3um7m/giphy.gif" width='300'>
+<div align='center'>
+ <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='250'>
 </div>
 
 <p align = "center">
