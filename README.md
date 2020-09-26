@@ -20,12 +20,13 @@ Here are some ideas to get you started:
 src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
 -->
 <div align='center'>
- <table border='0'>
+<!--  <table border='0'>
   <tr>
    <td><img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='250'></td>
     <td><img src="https://raw.githubusercontent.com/mangipudiprashanth7/mangipudiprashanth7/master/tenor.gif" width='250'></td>
   </tr>
- </table>
+ </table> -->
+ <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='250'>
 </div>
 
 <p align = "center">
