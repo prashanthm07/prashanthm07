@@ -20,7 +20,6 @@ Here are some ideas to get you started:
  <img src="https://raw.githubusercontent.com/mangipudiprashanth7/mangipudiprashanth7/master/tenor.gif" width='300'>
 src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif"
 -->
-
 <div align='center'>
  <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='250'>
 </div>
