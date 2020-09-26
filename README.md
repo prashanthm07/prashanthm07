@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 
- <!-- <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'> -->
- <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width='300' >
+ <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width='300'>
 </div>
 
 <p align = "center">
