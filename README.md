@@ -2,11 +2,6 @@
 
 - 🌱 I’m currently learning how machines learn.
 - 👯 I’m looking to collaborate to work on Computer Vision projects.
-
-- 📌Looking for something else?
-
-  Well, never mind. If you name something that I've never heard of or learned before, I'm certainly gonna learn it and deliver the best results -:)
-  
 - 💬 I'm ready for any discussion related to "How machines learn?"  Let's connect and discuss.
 <!--
 **mangipudiprashanth7/mangipudiprashanth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
