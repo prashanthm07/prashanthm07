@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Prashanth Mangipudi 
 
 - 🌱 I’m currently learning how machines learn.
 - 👯 I’m looking to collaborate to work on Computer Vision projects.
