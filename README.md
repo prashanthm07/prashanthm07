@@ -1,8 +1,9 @@
 ### Hi there 👋 I'm Prashanth Mangipudi 
 
+<!--
 - 🌱 I’m currently learning how machines learn.
 - 👯 I’m looking to collaborate to work on Computer Vision projects.
-- 💬 I'm ready for any discussion related to "How machines learn?"  Let's connect and discuss.
+- 💬 I'm ready for any discussion related to "How machines learn?"  Let's connect and discuss. -->
 <!--
 **mangipudiprashanth7/mangipudiprashanth7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
